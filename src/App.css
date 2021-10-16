@@ -1,0 +1,25 @@
+.app {
+  text-align: center;
+  background-color: rgb(152, 210, 248);
+  min-height: 100vh;
+  padding: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
+.tweet {
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 5px 15px rgba(47, 45, 51, 0.15);
+  text-align: center;
+  width: 95%;
+  max-width: 250px;
+  padding: 15px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
